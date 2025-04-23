@@ -14,4 +14,4 @@ flowchart TD
     B --> C[text.txt]
     B --> D[lab1]
     B --> E[lab3]
-    B1[lab1-edit] --> D
+    B1[lybomir] --> D
