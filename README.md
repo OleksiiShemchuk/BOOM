@@ -25,6 +25,6 @@ flowchart TD
     B --> L1[📁 lab1]
     L1 --> L1PY[lab1.py]
     L1 --> T1PY[test_laba1.py]
-    B[🌿 lab1-edit] --> L1
+    B1[🌿 lab1-edit] --> L1
     B --> L3[📁 lab3]
     L3 --> L3F[lab3.py]
